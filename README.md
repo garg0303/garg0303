@@ -1,86 +1,110 @@
-<h1 align="center">Hi 👋, I'm Gaurav Garg</h1>
-
-<h3 align="center">
-AI/ML Engineer | Computer Vision Engineer | Generative AI Enthusiast
-</h3>
+<h1 align="center">Hi, I'm Gaurav Garg 👋</h1>
 
 <p align="center">
-Building intelligent systems with Machine Learning, Computer Vision, OCR, ANPR, and Generative AI.
+  <b>AI/ML Engineer · Data Science Candidate · Model Risk & GenAI Enthusiast</b><br/>
+  <i>Building intelligent systems that are accurate, robust, and explainable.</i>
+</p>
+
+<p align="center">
+  <a href="mailto:garggaurav038@gmail.com"><img src="https://img.shields.io/badge/Email-garggaurav038%40gmail.com-0D2B55?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gaurav-garg-0303gg"><img src="https://img.shields.io/badge/LinkedIn-gaurav--garg--0303gg-0D2B55?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Location-Chandigarh%2C%20India-C8963E?style=flat-square"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 💼 AI/ML Engineer at FleetSafe India Pvt. Ltd.
-- 🎓 B.E. Artificial Intelligence & Machine Learning
-- 🤖 Working on Computer Vision, ANPR, OCR, Vehicle Analytics & Safety Monitoring
-- 🌱 Currently learning Advanced LLMs, RAG, AI Agents & MLOps
-- 💡 Interested in Model Governance, Explainable AI (XAI) & Responsible AI
-- 📫 Reach me at: **garggaurav038@gmail.com**
+I'm an **AI/ML Engineer** with hands-on experience training, validating, deploying, and monitoring production-grade machine learning and computer vision models. Currently working at **FleetSafe India**, where I build intelligent solutions for real-world fleet and safety monitoring challenges.
+
+I'm deeply interested in **Model Risk Management**, **Generative AI**, **LLMs**, and **responsible AI governance** — ensuring that AI systems are not just powerful, but trustworthy and explainable.
+
+- 🔭 Currently working on **ANPR, OCR, and Video Analytics** systems at FleetSafe India
+- 🌱 Exploring **Generative AI, LLMs, and AI explainability (XAI)**
+- 🎯 Passionate about **model validation, bias assessment, and risk-aware AI development**
+- 🎓 B.E. in Artificial Intelligence & Machine Learning — UIET Chandigarh (2021–2025)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### AI / ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-### AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### Data & Analytics
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-### Generative AI
-![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-blue?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-green?style=for-the-badge)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 Key Projects
 
-### 🚗 Automatic Number Plate Recognition (ANPR)
-End-to-end AI pipeline for vehicle detection, number plate extraction, OCR optimization, and deployment.
+### 🔢 Custom ANPR System
+> End-to-end Automatic Number Plate Recognition pipeline — dataset creation, model training, OCR optimization, validation, and deployment.
+- Custom-trained detection & recognition models optimized for real-world conditions
+- Full validation pipeline with performance benchmarking and error analysis
 
-### 🎯 Vehicle Centering System
-Machine learning solution to classify centered vs non-centered vehicles in real-time environments.
+### 🚗 Vehicle Centering System
+> Classification model for detecting centered vs. non-centered vehicles in camera frames.
+- Supports downstream analytics requiring normalized vehicle positioning
 
 ### 📹 Video Analytics Platform
-Built person detection, intrusion detection, crowd analytics, and vehicle monitoring systems.
+> Comprehensive real-time video intelligence system.
+- Person detection · Intrusion detection · Crowd analytics · Vehicle monitoring
+- Deployed in production fleet safety environments
 
 ### 🎙️ Voice-Over Expert System
-AI assistant capable of understanding voice input and generating intelligent voice responses.
+> Speech-based AI assistant with spoken input understanding and voice response generation.
+- End-to-end speech pipeline integrating ASR and TTS components
 
 ---
 
-## 📈 GitHub Stats
+## 💼 Experience
+
+| Role | Company | Period |
+|------|---------|--------|
+| Software Engineer | FleetSafe India Pvt. Ltd. | Jan 2025 – Present |
+| Android Developer Intern | Prasunet | Jun 2024 – Jul 2024 |
+
+---
+
+## 📜 Certifications
+
+- 🏅 **AI Master Class** — Deep Learning, Data Structures & Algorithms
+
+---
+
+## 🎯 Areas of Interest
+
+```
+Model Validation & Monitoring    Explainable AI (XAI)
+Generative AI & LLMs             Model Risk Management
+Computer Vision                  Responsible AI Governance
+```
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=garg0303&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=garg0303&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garg0303&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gaurav-garg-0303gg&show_icons=true&theme=default&hide_border=true&title_color=0D2B55&icon_color=C8963E" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-garg-0303gg&layout=compact&hide_border=true&title_color=0D2B55" height="160"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/gaurav-garg-0303gg
-- Email: garggaurav038@gmail.com
-
----
-
-⭐ Open to AI/ML Engineer, Computer Vision Engineer, Python Developer, and Generative AI opportunities.
+<p align="center">
+  <i>"Building AI that is not just intelligent, but trustworthy."</i><br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=gaurav-garg-0303gg&color=0D2B55&style=flat-square&label=Profile+Views"/>
+</p>
