@@ -95,16 +95,3 @@ Computer Vision                  Responsible AI Governance
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaurav-garg-0303gg&show_icons=true&theme=default&hide_border=true&title_color=0D2B55&icon_color=C8963E" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-garg-0303gg&layout=compact&hide_border=true&title_color=0D2B55" height="160"/>
-</p>
-
----
-
-<p align="center">
-  <i>"Building AI that is not just intelligent, but trustworthy."</i><br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=gaurav-garg-0303gg&color=0D2B55&style=flat-square&label=Profile+Views"/>
-</p>
